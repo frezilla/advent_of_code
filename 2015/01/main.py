@@ -5,9 +5,9 @@
 
 def run():
     print("--- Day 1: Not Quite Lisp ---")
-    fhand = open("puzzle.txt", "r")
+    puzzle = open("puzzle.txt", "r")
     instructions = ''
-    for line in fhand:
+    for line in puzzle:
         instructions += line.rstrip()
     floor = 0
     assign_position = True
@@ -27,6 +27,7 @@ def run():
         print("Santa n'est jamais allé à l'étage -1")
     else:
         print(f"Position du premier caractère qui a mené au sous_sol (étage -1) : {position}")
+    puzzle.close()
 
 
 if __name__ == '__main__':

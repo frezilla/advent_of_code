@@ -5,10 +5,10 @@
 
 def run():
     print("--- Day 2: I Was Told There Would Be No Math ---")
-    fhand = open("puzzle.txt", "r")
+    puzzle = open("puzzle.txt", "r")
     square_feet = 0
     feet_of_ribbon = 0
-    for line in fhand:
+    for line in puzzle:
         current_line = line.rstrip()
         tokens = current_line.split("x")
         l = int(tokens[0])
@@ -32,8 +32,8 @@ def run():
         feet_of_ribbon += current_feet_of_ribbon
 
         print(f"Surface de la boite {l} * {w} * {h} = {current_square_feet} - longueur du ruban = {current_feet_of_ribbon}")
-
     print(f"Surface totale du papier d'emballage: {square_feet} - Longueur total du ruban : {feet_of_ribbon}")
+    puzzle.close()
 
 
 if __name__ == '__main__':

@@ -23,10 +23,11 @@ def run():
     y = 0
     visited_houses = {(x, y)}
 
-    fhand = open("puzzle.txt", "r")
+    puzzle = open("puzzle.txt", "r")
     instructions = ''
-    for line in fhand:
+    for line in puzzle:
         instructions += line.rstrip()
+    puzzle.close()
 
     for c in instructions:
         array = move_step(c)
