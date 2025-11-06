@@ -1,19 +1,19 @@
 # 2015
 Pour l'année 2015, le challenge est de résoudre les énigmes proposées en [Python](https://www.python.org/)
-- Jour 1: Not Quite Lisp
-- Jour 2: I Was Told There Would Be No Math
-- Jour 3: Perfectly Spherical Houses in a Vacuum
-- Jour 4: The Ideal Stocking Stuffer
-- Jour 5: Doesn't He Have Intern-Elves For This?
-- Jour 6: Probably a Fire Hazard
-- Jour 7: Some Assembly Required
-- Jour 8: Matchsticks
-- Jour 9: All in a Single Night
-- Jour 10: Elves Look, Elves Say
-- Jour 11: Corporate Policy
-- Jour 12: JSAbacusFramework.io
-- Jour 13: Knights of the Dinner Table
-- Jour 14: Reindeer Olympics
-- Jour 15: Science for Hungry People
-- Jour 16: Aunt Sue
-- Jour 17: No Such Thing as Too Much
+- [Jour 1: Not Quite Lisp](https://adventofcode.com/2015/day/1)
+- [Jour 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)
+- [Jour 3: Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3)
+- [Jour 4: The Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)
+- [Jour 5: Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5)
+- [Jour 6: Probably a Fire Hazard](https://adventofcode.com/2015/day/6)
+- [Jour 7: Some Assembly Required](https://adventofcode.com/2015/day/7)
+- [Jour 8: Matchsticks](https://adventofcode.com/2015/day/8)
+- [Jour 9: All in a Single Night](https://adventofcode.com/2015/day/9)
+- [Jour 10: Elves Look, Elves Say](https://adventofcode.com/2015/day/10)
+- [Jour 11: Corporate Policy](https://adventofcode.com/2015/day/11)
+- [Jour 12: JSAbacusFramework.io](https://adventofcode.com/2015/day/12)
+- [Jour 13: Knights of the Dinner Table](https://adventofcode.com/2015/day/13)
+- [Jour 14: Reindeer Olympics](https://adventofcode.com/2015/day/14)
+- [Jour 15: Science for Hungry People](https://adventofcode.com/2015/day/15)
+- [Jour 16: Aunt Sue](https://adventofcode.com/2015/day/16)
+- [Jour 17: No Such Thing as Too Much](https://adventofcode.com/2015/day/17)
