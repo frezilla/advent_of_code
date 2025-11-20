@@ -1,5 +1,5 @@
 # 2015
-Pour l'année 2015, le challenge est de résoudre les énigmes proposées en [Python](https://www.python.org/)
+Pour l'année 2015, le challenge est de résoudre les énigmes proposées en [Python](https://www.python.org/).
 - [Jour 1: Not Quite Lisp](https://adventofcode.com/2015/day/1)
 - [Jour 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)
 - [Jour 3: Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3)
@@ -18,3 +18,4 @@ Pour l'année 2015, le challenge est de résoudre les énigmes proposées en [Py
 - [Jour 16: Aunt Sue](https://adventofcode.com/2015/day/16)
 - [Jour 17: No Such Thing as Too Much](https://adventofcode.com/2015/day/17)
 - [Jour 18: Like a GIF For Your Yard](https://adventofcode.com/2015/day/18)
+- [Jour 19 : Medicine for Rudolph](https://adventofcode.com/2015/day/19)
